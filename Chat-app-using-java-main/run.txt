@@ -1,0 +1,10 @@
+Process to Run:
+
+*First, download the ZIP file.
+*Extract the ZIP file.
+*Open the extracted folder in your IDE (e.g., VSCode).
+*Open the terminal and type javac Client.java to compile the client code.
+*Next, type javac Server.java to compile the server code.
+*The class files will be generated in your folder structure.
+*Open a terminal window and run the server by typing java Server.
+*Open another terminal window and type java Client to run the client.
