@@ -13,7 +13,7 @@ public class Client implements Runnable {
     private JTextField inputField;
     private JTextPane chatPane;
     private StyledDocument chatDoc;
-    private SimpleAttributeSet serverStyle;
+    private SimpleAttributeSet serverStyle;   
     private SimpleAttributeSet clientStyle;
     private JLabel statusLabel;
     private JPanel statusPanel;
@@ -186,4 +186,5 @@ public class Client implements Runnable {
         new Client();
     }
 }
+
 
