@@ -4,7 +4,7 @@ import javax.swing.text.*;
 import java.awt.*;
 import java.io.*;
 import java.net.*;
-
+  
 public class Client implements Runnable {
 
     private Socket socket;
@@ -186,3 +186,4 @@ public class Client implements Runnable {
         new Client();
     }
 }
+
