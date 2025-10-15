@@ -5,7 +5,7 @@ import java.awt.*;
 import java.io.*;
 import java.net.*;
 
-
+    
 public class Server implements Runnable {
 
     private ServerSocket serverSocket;
@@ -190,3 +190,4 @@ public class Server implements Runnable {
         new Server();
     }
 }
+
