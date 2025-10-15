@@ -7,4 +7,4 @@ Process to Run:
 *Next, type javac Server.java to compile the server code.
 *The class files will be generated in your folder structure.
 *Open a terminal window and run the server by typing java Server.
-*Open another terminal window and type java Client to run the client.
+*Open another terminal window and type java Client to run the client.     
